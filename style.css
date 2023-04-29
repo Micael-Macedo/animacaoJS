@@ -1,0 +1,11 @@
+body {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
+body #canvas1 {
+  width: 253px;
+  height: 253px;
+  border: 3px solid black;
+}/*# sourceMappingURL=style.css.map */
